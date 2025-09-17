@@ -1,3 +1,8 @@
 my name is sandesh dahal and i am from kathamandu
-and i am going  home in this dashain 
+and i am going  home in this dashain
+
+Github no longer support password authentication for git push (since Augest 2021 instead you must use either
+1. Password Access Token (PAT )
+2. SSH Authentication 
+ 
 
